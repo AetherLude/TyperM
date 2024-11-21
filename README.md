@@ -1,5 +1,5 @@
 # TyperM
-一个自动模拟手动打字的程序。支持MacOS arm64 和 x86，以及Windows
+一个使用Java自动模拟手动打字的程序。支持MacOS arm64 和 x86，以及Windows
 ## 使用方法
 点击右下角的Release，进入后选择电脑架构进行下载。
 
